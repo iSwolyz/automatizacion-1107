@@ -1,5 +1,6 @@
 #cuerpo{
     background-color: black;
+    color: #ffffff;
 }
 
 #banner{
@@ -14,49 +15,41 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 90px;
-    color: white;
 }
 
 #seccion{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 35px;
-    color: white;
 }
 
 #nas{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 28px;
-    color: white;
 }
 
 .subtitulo{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
-    color: white;
+
+    justify-content: space-evenly;
+    display: flex;
 }
 
 .descripcion{
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
     font-size: 18px;
-}
 
-#lore{
-    text-align: left;
-}   
-
-#lorediseño{
-    text-align: center;
-}
-
-#lorefuncion{
-    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    
+    border: solid 2px #ffffff;
+    width: 300px;
+    height: 400px;
 }
 
 #walter{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: white;
 }
